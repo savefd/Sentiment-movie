@@ -3,7 +3,7 @@ Sentiment Analysis on Movie Reviews
 
 Data: IMDB 50k movie reviews
 
-the MovieReview.ipynb contain these important functions for logistic regression
+the MovieReview.ipynb contains these important functions for logistic regression
 1. process -> text preprocessing function
 2. frequency_count -> generate frequency dictionary
 3. extractFeature -> get array with shape (1,3) > (constant, sum_positive, sum_negative)
