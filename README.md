@@ -1,4 +1,4 @@
-# Sentiment Analysis with Logistic regression
+# Sentiment Analysis with Logistic regression (from-scratch)
 Sentiment Analysis on Movie Reviews
 
 Data: IMDB 50k movie reviews
